@@ -68,10 +68,9 @@
   /*--primary-color-700: rgb(255, 167, 0);*/
 }
 
-header img{
+header img, .login-section img, .sign-up-section img{
   height: 50px;
 }
-
 
 *,
 ::before,
